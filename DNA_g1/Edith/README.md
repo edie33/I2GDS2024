@@ -9,7 +9,7 @@ It was developed as part of the curriculum for Virginia Tech's ALS 5224 Intro to
 
 Epigenetic alterations, such as histone modifications, can help us understand how gene expression is regulated, how environmental factors can impact health, develop and evaluate  epigenetic therapeutic agents.
 
-In order to identify significant histone modications in samples and observe patterns across patients with and without treatment, we obtained and prepared samples with MOWChIP-seq. However, samples may be used from previously published data can be used for running and testing the data analysis process. 
+In order to identify significant histone modifications in samples and observe patterns across patients with and without treatment, we obtained and prepared samples with MOWChIP-seq. However, samples may be used from previously published data for running and testing the data analysis process. 
 
 Contact: Edith Chen (edithchen@vt.edu)
 
